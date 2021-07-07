@@ -107,7 +107,7 @@ DATABASES = {
     "HOST": "127.0.0.1",
     "PORT": 3306,
     "USER": "root",
-    "PASSWORD": "KwaiCTF{is:t_his@flag???}"
+    "PASSWORD": "KwaiCTF{Is@@0a#this@flag???!!}"
   }
 }
 
